@@ -1,6 +1,6 @@
 # DCC042 - Robótica Móvel
 
-Nesse repositórios encontram-se os Python Notebooks e cenas de simulação do CoppeliaSim utilizados ao longo da disciplina.
+Nesse repositório encontram-se os Python Notebooks e as cenas de simulação do CoppeliaSim utilizados ao longo da disciplina.
 
 ## Ementa
 
