@@ -12,27 +12,30 @@ Esta disciplina abordará os principais conceitos de Robótica Móvel. Serão vi
 
 ## Conteúdo
 
-^ Assunto                                     ^ Slides          ^ Notebooks          ^ Cenas     ^
-| Apresentação do curso                         |                 |                    |
-| História da Robótica                          |                 |                    | 
-| Ferramentas                                   |                 |                    |
-| Descrição espacial e transformações           |                 |                    | 
-| Espaço de configurações                       |                 |                    |
-| Locomoção – Mecanismos                        |                 |                    |
-| Locomoção – Modelos cinemáticos               |                 |                    |
-| Controle – Introdução                         |                 |                    |
-| Controle – Cinemático                         |                 |                    |
-| Paradigmas Robóticos                          |                 |                    |
-| Planejamento de caminhos – Bug Algorithms     |                 |                    |
-| Planejamento de caminhos – Campos Potenciais  |                 |                    |
-| Planejamento de caminhos – Roadmaps           |                 |                    |
-| Planejamento de caminhos – PRM/RRT            |                 |                    |
-| Revisão de probabilidade                      |                 |                    |
-| Sensores                                      |                 |                    | 
-| Mapeamento – Introdução                       |                 |                    |
-| Mapeamento – Occupancy Grid                   |                 |                    |
-| Localização – Kalman                          |                 |                    |
-| Localização – Markov                          |                 |                    |
-| Localização – MCL                             |                 |                    |
-| SLAM - Introdução                             |                 |                    |
-| Sistemas multi-robôs                          |                 |                    |
+
+
+| Assunto                                       | Slides          | Notebooks          | Cenas     |
+|-----------------------------------------------|-----------------|--------------------|-----------|
+| Apresentação do curso                         |                 |                    |           |
+| História da Robótica                          |                 |                    |           |
+| Ferramentas                                   |                 |                    |           |
+| Descrição espacial e transformações           |                 |                    |           |
+| Espaço de configurações                       |                 |                    |           |
+| Locomoção – Mecanismos                        |                 |                    |           |
+| Locomoção – Modelos cinemáticos               |                 |                    |           |
+| Controle – Introdução                         |                 |                    |           |
+| Controle – Cinemático                         |                 |                    |           |
+| Paradigmas Robóticos                          |                 |                    |           |
+| Planejamento de caminhos – Bug Algorithms     |                 |                    |           |
+| Planejamento de caminhos – Campos Potenciais  |                 |                    |           |
+| Planejamento de caminhos – Roadmaps           |                 |                    |           |
+| Planejamento de caminhos – PRM/RRT            |                 |                    |           |
+| Revisão de probabilidade                      |                 |                    |           |
+| Sensores                                      |                 |                    |           |
+| Mapeamento – Introdução                       |                 |                    |           |
+| Mapeamento – Occupancy Grid                   |                 |                    |           |
+| Localização – Kalman                          |                 |                    |           |
+| Localização – Markov                          |                 |                    |           |
+| Localização – MCL                             |                 |                    |           |
+| SLAM - Introdução                             |                 |                    |           |
+| Sistemas multi-robôs                          |                 |                    |           |
