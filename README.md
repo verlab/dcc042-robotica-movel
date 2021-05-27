@@ -14,11 +14,11 @@ Esta disciplina abordará os principais conceitos de Robótica Móvel. Serão vi
 
 
 
-| Assunto                                       | Aulas           | Jupyter           | CoppeliaSim     |
-|-----------------------------------------------|-----------------|--------------------|-----------|
-| Apresentação do curso                         |  [Vídeo](https://youtu.be/qWWKAMMnPs8) | [Slides](https://drive.google.com/file/d/16EcZqbMsq4w-gy1JuWJFkCLLmUiSxZv-/view?usp=sharing)  |                    |           |
-| História e Atualidades                        |  [Vídeo](https://youtu.be/FtLzd2LY7T4) | [Slides](https://drive.google.com/file/d/14J9dALWPGVY1qzoSx3h9yJYQFTTQYXoc/view?usp=sharing)  |                    |           |
-| Ferramental                                   |  [Vídeo](https://youtu.be/Ohrau23GmQk) | [Slides](https://drive.google.com/file/d/1TmWJxVjGy_MqZljqCs07ESk3-qxtkvf3/view?usp=sharing)  |  Notebook  |  Cena  |
+| Assunto                                       | Aulas             | Jupyter              | CoppeliaSim     |
+|-----------------------------------------------|:-----------------:|:--------------------:|:---------------:|
+| Apresentação do curso                         |  [Vídeo](https://youtu.be/qWWKAMMnPs8) - [Slides](https://drive.google.com/file/d/16EcZqbMsq4w-gy1JuWJFkCLLmUiSxZv-/view?usp=sharing)  |                    |           |
+| História e Atualidades                        |  [Vídeo](https://youtu.be/FtLzd2LY7T4) - [Slides](https://drive.google.com/file/d/14J9dALWPGVY1qzoSx3h9yJYQFTTQYXoc/view?usp=sharing)  |                    |           |
+| Ferramental                                   |  [Vídeo](https://youtu.be/Ohrau23GmQk) - [Slides](https://drive.google.com/file/d/1TmWJxVjGy_MqZljqCs07ESk3-qxtkvf3/view?usp=sharing)  |  Notebook  |  Cena  |
 | Descrição espacial e transformações           |                 |                    |           |
 | Espaço de configurações                       |                 |                    |           |
 | Locomoção – Mecanismos                        |                 |                    |           |
