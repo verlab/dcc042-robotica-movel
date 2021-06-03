@@ -19,7 +19,7 @@ Esta disciplina abordará os principais conceitos de Robótica Móvel. Serão vi
 | Apresentação do curso                         |  [Vídeo](https://youtu.be/qWWKAMMnPs8) - [Slides](https://drive.google.com/file/d/16EcZqbMsq4w-gy1JuWJFkCLLmUiSxZv-/view?usp=sharing)  |                    |           |
 | História e Atualidades                        |  [Vídeo](https://youtu.be/FtLzd2LY7T4) - [Slides](https://drive.google.com/file/d/14J9dALWPGVY1qzoSx3h9yJYQFTTQYXoc/view?usp=sharing)  |                    |           |
 | Ferramental                                   |  [Vídeo](https://youtu.be/Ohrau23GmQk) - [Slides](https://drive.google.com/file/d/1TmWJxVjGy_MqZljqCs07ESk3-qxtkvf3/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula03-ferramental.ipynb)  |  [Cena](../main/cenas-coppeliasim/aula03-pioneer.ttt)  |
-| Descrição espacial e transformações           |                 |                    |           |
+| Descrição espacial e Transformações rígidas   |  [Vídeo](https://youtu.be/RDUKZt00-oI) - [Slides](https://drive.google.com/file/d/1Ra94gTtL0exznbURIjL_uKL8XHPn1wPY/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula04-descricao-espacial-transformacoes-rigidas.ipynb)  |           |
 | Espaço de configurações                       |                 |                    |           |
 | Locomoção – Mecanismos                        |                 |                    |           |
 | Locomoção – Modelos cinemáticos               |                 |                    |           |
