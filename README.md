@@ -22,7 +22,7 @@ Esta disciplina abordará os principais conceitos de Robótica Móvel. Serão vi
 | Descrição espacial e Transformações rígidas   |  [Vídeo](https://youtu.be/RDUKZt00-oI) - [Slides](https://drive.google.com/file/d/1Ra94gTtL0exznbURIjL_uKL8XHPn1wPY/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula04-descricao-espacial-transformacoes-rigidas.ipynb)  |           |
 | Transf. homogêneas e Espaço de configurações  |  [Vídeo](https://youtu.be/lJfxVbuBVkE) - [Slides](https://drive.google.com/file/d/15IFPS6twEb69NhkUpsWVy8iO73KGGfmc/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula05-transformacoes-homogeneas-espaco-configuracoes.ipynb)  |           |
 | Locomoção – Conceitos e Mecanismos            |  [Vídeo](https://youtu.be/wNkUOfk5HDw) - [Slides](https://drive.google.com/file/d/1_2BvW8f7oUDA3osTCsvNwyQMdT2Y-5uR/view?usp=sharing)  |                    |           |
-| Locomoção – Modelos cinemáticos               |                 |                    |           |
+| Locomoção – Modelos cinemáticos               |  [Vídeo](https://youtu.be/P1PIQilYliQ) - [Slides](https://drive.google.com/file/d/1tCxXqrZ94_4FyKE8By_-FDkFWlM-3Z3A/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula07-locomocao-modelos-cinematicos.ipynb)  |  [Cena - Robotino](../main/cenas-coppeliasim/aula07-robotino.ttt) -   [Cena - Pioneer](../main/cenas-coppeliasim/aula07-pioneer.ttt)   |
 | Controle – Introdução                         |                 |                    |           |
 | Controle – Cinemático                         |                 |                    |           |
 | Paradigmas Robóticos                          |                 |                    |           |
