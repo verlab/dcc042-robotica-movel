@@ -23,7 +23,7 @@ Esta disciplina abordará os principais conceitos de Robótica Móvel. Serão vi
 | Transf. homogêneas e Espaço de configurações  |  [Vídeo](https://youtu.be/lJfxVbuBVkE) - [Slides](https://drive.google.com/file/d/15IFPS6twEb69NhkUpsWVy8iO73KGGfmc/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula05-transformacoes-homogeneas-espaco-configuracoes.ipynb)  |           |
 | Locomoção – Conceitos e Mecanismos            |  [Vídeo](https://youtu.be/wNkUOfk5HDw) - [Slides](https://drive.google.com/file/d/1_2BvW8f7oUDA3osTCsvNwyQMdT2Y-5uR/view?usp=sharing)  |                    |           |
 | Locomoção – Modelos cinemáticos               |  [Vídeo](https://youtu.be/P1PIQilYliQ) - [Slides](https://drive.google.com/file/d/1tCxXqrZ94_4FyKE8By_-FDkFWlM-3Z3A/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula07-locomocao-modelos-cinematicos.ipynb)  |  [Robotino](../main/cenas-coppeliasim/aula07-robotino.ttt), [Pioneer](../main/cenas-coppeliasim/aula07-pioneer.ttt)   |
-| Controle – Introdução                         |                 |                    |           |
+| Controle – Introdução                         |  [Vídeo](https://youtu.be/Y-opiS_gjhk) - [Slides](https://drive.google.com/file/d/18t-rwkNsRynWjjyEvVNsCwFDWUrddkFI/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula08-controle-introducao.ipynb)  |  [Cena](../main/cenas-coppeliasim/aula08-controle-introducao.ttt)  |
 | Controle – Cinemático                         |                 |                    |           |
 | Paradigmas Robóticos                          |                 |                    |           |
 | Planejamento de caminhos – Bug Algorithms     |                 |                    |           |
