@@ -26,7 +26,7 @@ Esta disciplina abordará os principais conceitos de Robótica Móvel. Serão vi
 | Controle – Introdução                         |  [Vídeo](https://youtu.be/Y-opiS_gjhk) - [Slides](https://drive.google.com/file/d/18t-rwkNsRynWjjyEvVNsCwFDWUrddkFI/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula08-controle-introducao.ipynb)  |  [Cena](../main/cenas-coppeliasim/aula08-controle-introducao.ttt)  |
 | Controle – Cinemático                         |  [Vídeo](https://youtu.be/uAwjyo6P08I) - [Slides](https://drive.google.com/file/d/1EiuDr9O-1pc8rDJHCm_t_o8Age2TWfa3/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula09-controle-cinematico.ipynb)  |  [Robotino](../main/cenas-coppeliasim/aula09-controle-robotino.ttt), [Pioneer](../main/cenas-coppeliasim/aula09-controle-pioneer.ttt)   |
 | Paradigmas Robóticos                          |  [Vídeo](https://youtu.be/B15kbEPK0iM) - [Slides](https://drive.google.com/file/d/1kfAZYTFhwCkZRXScMjoG4s3FhgndvT4K/view?usp=sharing)  |                    |           |
-| Planejamento de caminhos – Bug Algorithms     |                 |                    |           |
+| Planejamento de caminhos – Bug Algorithms     |  [Vídeo](https://youtu.be/uto-IPidMyI) - [Slides](https://drive.google.com/file/d/1MzzdPFmfV-M4uVOgyvMPR_b67_d_zgPn/view?usp=sharing)  |                    |           |
 | Planejamento de caminhos – Campos Potenciais  |                 |                    |           |
 | Planejamento de caminhos – Roadmaps           |                 |                    |           |
 | Planejamento de caminhos – PRM/RRT            |                 |                    |           |
