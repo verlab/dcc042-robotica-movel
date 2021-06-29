@@ -27,7 +27,7 @@ Esta disciplina abordará os principais conceitos de Robótica Móvel. Serão vi
 | Controle – Cinemático                         |  [Vídeo](https://youtu.be/uAwjyo6P08I) - [Slides](https://drive.google.com/file/d/1EiuDr9O-1pc8rDJHCm_t_o8Age2TWfa3/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula09-controle-cinematico.ipynb)  |  [Robotino](../main/cenas-coppeliasim/aula09-controle-robotino.ttt), [Pioneer](../main/cenas-coppeliasim/aula09-controle-pioneer.ttt)   |
 | Paradigmas Robóticos                          |  [Vídeo](https://youtu.be/B15kbEPK0iM) - [Slides](https://drive.google.com/file/d/1kfAZYTFhwCkZRXScMjoG4s3FhgndvT4K/view?usp=sharing)  |                    |           |
 | Planejamento de caminhos – Bug Algorithms     |  [Vídeo](https://youtu.be/uto-IPidMyI) - [Slides](https://drive.google.com/file/d/1MzzdPFmfV-M4uVOgyvMPR_b67_d_zgPn/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula11-planejamento-caminhos-bug.ipynb)  |  [Cena](../main/cenas-coppeliasim/aula11-bug-wall-follow.ttt)  |
-| Planejamento de caminhos – Campos Potenciais  |                 |                    |           |
+| Planejamento de caminhos – Campos Potenciais  |  [Vídeo](https://youtu.be/GBr8b40LBNg) - [Slides](https://drive.google.com/file/d/1TXXX5yL48QkH6433cJhpIy6cIVFoBq-S/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula12-planejamento-caminhos-campos-potenciais.ipynb)  |           |
 | Planejamento de caminhos – Roadmaps           |                 |                    |           |
 | Planejamento de caminhos – PRM/RRT            |                 |                    |           |
 | Revisão de probabilidade                      |                 |                    |           |
