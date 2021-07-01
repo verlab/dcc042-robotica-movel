@@ -28,7 +28,7 @@ Esta disciplina abordará os principais conceitos de Robótica Móvel. Serão vi
 | Paradigmas Robóticos                          |  [Vídeo](https://youtu.be/B15kbEPK0iM) - [Slides](https://drive.google.com/file/d/1kfAZYTFhwCkZRXScMjoG4s3FhgndvT4K/view?usp=sharing)  |                    |           |
 | Planejamento de caminhos – Bug Algorithms     |  [Vídeo](https://youtu.be/uto-IPidMyI) - [Slides](https://drive.google.com/file/d/1MzzdPFmfV-M4uVOgyvMPR_b67_d_zgPn/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula11-planejamento-caminhos-bug.ipynb)  |  [Cena](../main/cenas-coppeliasim/aula11-bug-wall-follow.ttt)  |
 | Planejamento de caminhos – Campos Potenciais  |  [Vídeo](https://youtu.be/GBr8b40LBNg) - [Slides](https://drive.google.com/file/d/1TXXX5yL48QkH6433cJhpIy6cIVFoBq-S/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula12-planejamento-caminhos-campos-potenciais.ipynb)  |           |
-| Planejamento de caminhos – Roadmaps           |                 |                    |           |
+| Planejamento de caminhos – Roadmaps           |  [Vídeo](https://youtu.be/1ct_BgMqkdc) - [Slides](https://drive.google.com/file/d/1TNHXz8neDaT6GEyJ2nyh9VWxrTQlTo01/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula13-planejamento-caminhos-roadmaps.ipynb)  |           |
 | Planejamento de caminhos – PRM/RRT            |                 |                    |           |
 | Revisão de probabilidade                      |                 |                    |           |
 | Sensores                                      |                 |                    |           |
