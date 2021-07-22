@@ -32,7 +32,7 @@ Esta disciplina abordará os principais conceitos de Robótica Móvel. Serão vi
 | Planejamento de caminhos – PRM/RRT            |  [Vídeo](https://youtu.be/aZgiuvmHNS4) - [Slides](https://drive.google.com/file/d/1ECXem_SeZesay4Ls4Ai42LgX234jCe4P/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula14-planejamento-caminhos-prm-rrt.ipynb)  |           |
 | Revisão de probabilidade                      |  [Vídeo](https://youtu.be/3SvwmOXXi1w) - [Slides](https://drive.google.com/file/d/1nX6zDvroEoIIo1rR6fULrP31LxivSXEB/view?usp=sharing)  |                    |           |
 | Sensores                                      |  [Vídeo](https://youtu.be/QC0HdHgHysE) - [Slides](https://drive.google.com/file/d/1cmWfgl2JKZYVbHwoeCSxdnvuy6OXsp36/view?usp=sharing)  |                    |           |
-| Mapeamento – Introdução                       |                 |                    |           |
+| Mapeamento – Introdução                       |  [Vídeo](https://youtu.be/Yrqz9ZIAxDc) - [Slides](https://drive.google.com/file/d/17Q0EuDkXkmvvsWAWMej0v8rE88bV2YEs/view?usp=sharing)  |                    |           |
 | Mapeamento – Occupancy Grid                   |                 |                    |           |
 | Localização – Kalman                          |                 |                    |           |
 | Localização – Markov                          |                 |                    |           |
