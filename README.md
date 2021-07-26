@@ -33,7 +33,7 @@ Esta disciplina abordará os principais conceitos de Robótica Móvel. Serão vi
 | Revisão de probabilidade                      |  [Vídeo](https://youtu.be/3SvwmOXXi1w) - [Slides](https://drive.google.com/file/d/1nX6zDvroEoIIo1rR6fULrP31LxivSXEB/view?usp=sharing)  |                    |           |
 | Sensores                                      |  [Vídeo](https://youtu.be/QC0HdHgHysE) - [Slides](https://drive.google.com/file/d/1cmWfgl2JKZYVbHwoeCSxdnvuy6OXsp36/view?usp=sharing)  |                    |           |
 | Mapeamento – Introdução                       |  [Vídeo](https://youtu.be/Yrqz9ZIAxDc) - [Slides](https://drive.google.com/file/d/17Q0EuDkXkmvvsWAWMej0v8rE88bV2YEs/view?usp=sharing)  |                    |           |
-| Mapeamento – Occupancy Grid                   |                 |                    |           |
+| Mapeamento – Occupancy Grid                   |  [Vídeo](https://youtu.be/aROLZ8zB-2Y) - [Slides](https://drive.google.com/file/d/1dvmsh0tcJsHPDyU2QR5MYszkSXD3rSTD/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula18-mapeamento-occupancy-grid.ipynb)  |           |
 | Localização – Kalman                          |                 |                    |           |
 | Localização – Markov                          |                 |                    |           |
 | Localização – MCL                             |                 |                    |           |
