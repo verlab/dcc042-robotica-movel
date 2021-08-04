@@ -35,7 +35,7 @@ Esta disciplina abordará os principais conceitos de Robótica Móvel. Serão vi
 | Mapeamento – Introdução                       |  [Vídeo](https://youtu.be/Yrqz9ZIAxDc) - [Slides](https://drive.google.com/file/d/17Q0EuDkXkmvvsWAWMej0v8rE88bV2YEs/view?usp=sharing)  |                    |           |
 | Mapeamento – Occupancy Grid                   |  [Vídeo](https://youtu.be/aROLZ8zB-2Y) - [Slides](https://drive.google.com/file/d/1dvmsh0tcJsHPDyU2QR5MYszkSXD3rSTD/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula18-mapeamento-occupancy-grid.ipynb)  |           |
 | Localização – Kalman                          |  [Vídeo](https://youtu.be/mXLwe9OEoeI) - [Slides](https://drive.google.com/file/d/1sIQxAWU0TLkwtRrEh1puKCvZAvKuRcJ7/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula19-localizacao-kalman.ipynb)  |           |
-| Localização – Markov                          |                 |                    |           |
+| Localização – Markov                          |  [Vídeo](https://youtu.be/dypoOHO_-eY) - [Slides](https://drive.google.com/file/d/1qUL4kXcz9-BzDdwK_bRsNt18-k6pmYzp/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula20-localizacao-markov.ipynb)  |           |
 | Localização – MCL                             |                 |                    |           |
 | SLAM - Introdução                             |                 |                    |           |
 | Sistemas multi-robôs                          |                 |                    |           |
