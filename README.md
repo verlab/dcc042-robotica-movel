@@ -36,6 +36,6 @@ Esta disciplina abordará os principais conceitos de Robótica Móvel. Serão vi
 | Mapeamento – Occupancy Grid                   |  [Vídeo](https://youtu.be/aROLZ8zB-2Y) - [Slides](https://drive.google.com/file/d/1dvmsh0tcJsHPDyU2QR5MYszkSXD3rSTD/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula18-mapeamento-occupancy-grid.ipynb)  |           |
 | Localização – Kalman                          |  [Vídeo](https://youtu.be/mXLwe9OEoeI) - [Slides](https://drive.google.com/file/d/1sIQxAWU0TLkwtRrEh1puKCvZAvKuRcJ7/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula19-localizacao-kalman.ipynb)  |           |
 | Localização – Markov                          |  [Vídeo](https://youtu.be/dypoOHO_-eY) - [Slides](https://drive.google.com/file/d/1qUL4kXcz9-BzDdwK_bRsNt18-k6pmYzp/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula20-localizacao-markov.ipynb)  |           |
-| Localização – MCL                             |                 |                    |           |
+| Localização – MCL                             |  [Vídeo](https://youtu.be/oBPa0h8T9D8) - [Slides](https://drive.google.com/file/d/1UeICJJXd7UIcZot3jQyv2gRV4XfdHexk/view?usp=sharing)  |  [Notebook](../main/jupyter-notebooks/aula21-localizacao-mcl.ipynb)  |           |
 | SLAM - Introdução                             |                 |                    |           |
 | Sistemas multi-robôs                          |                 |                    |           |
